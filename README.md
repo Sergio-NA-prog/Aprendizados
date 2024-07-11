@@ -1,2 +1,5 @@
-# Aprendizados
-Repositório contendo referências de estudos
+# Cursos de programação em Informática
+
+Abaixo repositórios dos apontamentos de aula 
+## Dio
+-  [Git e GitHub](CursosDio/Git_GitHub)
