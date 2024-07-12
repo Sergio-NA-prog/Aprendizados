@@ -35,3 +35,8 @@ Realizar um commit
 ```sh
 git commit -m "texto para identificar o commit"
 ```
+Histórico de commits
+
+```sh
+git log
+```
