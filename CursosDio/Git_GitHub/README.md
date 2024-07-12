@@ -23,3 +23,15 @@ Clonar um repositório do GitHub
 git clone endereço-da-url-do-repositório-a-ser-clonado
 ```
 
+Referências de configuração Git: [Gravando alterações](https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Gravando-Altera%C3%A7%C3%B5es-em-Seu-Reposit%C3%B3rio)
+
+Adicionar todos arquivos para commit
+
+```sh
+git add .
+```
+Realizar um commit
+
+```sh
+git commit -m "texto para identificar o commit"
+```
